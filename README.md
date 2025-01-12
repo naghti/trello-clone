@@ -1,4 +1,4 @@
-# trello-clone ![Build status](https://github.com/knowankit/trello-clone/actions/workflows/main.yml/badge.svg)
+# Клон Трелло
 
 ![Trello clone](https://github.com/knowankit/trello-clone/blob/develop/demo.gif)
 
